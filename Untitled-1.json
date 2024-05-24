@@ -1,0 +1,10 @@
+  cloud_pct = 
+  temp.innerHtml = response.temp 
+  feels_like = 
+  humidity = 69,
+  min_temp = 30,
+  max_temp = 30,
+  wind_speed = 3.29,
+  wind_degrees = 271,
+  sunrise = 1716510683,
+  sunset = 1716557794

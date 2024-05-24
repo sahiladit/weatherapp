@@ -1,0 +1,12 @@
+.myInfo{
+    height:10vmin;
+    width:80vmin;
+    position: relative;
+    left:30%;
+    margin-top: 5%;
+}
+
+.connect{
+    position: relative;
+    margin-top:5%
+}

@@ -1,0 +1,20 @@
+.card {
+    height:18rem;
+    width:90vmin;
+    position: absolute;
+    left:20%;
+    top:30%;
+    padding-left:2%;
+}
+
+.othercity{
+    position: absolute;
+    left:100%;
+    top:-5rem;
+}
+
+.othercity .card-header,.card-body{
+    width:80%;
+    position: relative;
+    left:20%;
+}
