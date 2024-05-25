@@ -4,17 +4,17 @@
     position: absolute;
     left:20%;
     top:30%;
-    padding-left:2%;
 }
-
-.othercity{
-    position: absolute;
-    left:100%;
-    top:-5rem;
+body{
+    height:100%;
+    width:100%;
 }
-
-.othercity .card-header,.card-body{
-    width:80%;
-    position: relative;
-    left:20%;
+.cursor{
+    height:2rem;
+    width:2rem;
+    position: fixed;
+    border: 2px solid black;
+    border-radius: 50%;
+    z-index: 99;
+    opacity: 0;
 }
